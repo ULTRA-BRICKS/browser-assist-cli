@@ -1,0 +1,7 @@
+# task.yaml — task-cli's ticket config for this repo: tickets are Forgejo issues against
+# ultrabricks/browser-assist-cli on git.hyperide.ai.
+version: 1
+backend: forgejo
+forgejo:
+  url: https://git.hyperide.ai
+  repo: ultrabricks/browser-assist-cli
